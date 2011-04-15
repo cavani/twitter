@@ -453,7 +453,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="519" y="38" width="784" height="750" extended-state="0" />
+    <frame x="519" y="38" width="784" height="750" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294702" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
