@@ -8,4 +8,7 @@ module ApplicationHelper
       "#{base_title} | #{@title}"
     end
   end
+  def logo
+    image_tag("twitter.jpg", :alt => "Twitter", :class =>"round")
+  end
 end
